@@ -16,7 +16,7 @@ A detailed deck explaining more about this mini project can be found [here](http
 ### Prerequisites
 
 The following softwares were used in this project:
-* Google Colab
+* [Google Colab](https://colab.research.google.com/)
 
 ### Installation
 
