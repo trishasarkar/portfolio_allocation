@@ -34,6 +34,6 @@ Run the following commands from command line:
 ## Contributors
 
 * [Trisha Sarkar](https://github.com/trishasarkar)
-* Anushka Khare
+* [Anushka Khare](https://github.com/anushkakhare)
 * Shubham Bagdare
 * Harsh Kharabe
